@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>c15df84e-f951-4730-b01b-b5cb58aecbfa</ProjectGuid>
+    <ProjectGuid>{659852C8-4D72-4B5D-88C0-436C61DDBE0E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CineAIDesktop</RootNamespace>
